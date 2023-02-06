@@ -8,7 +8,7 @@
 
 Backend Developer
 
-- 🤓 Estudiante de Ingeniería de sistemas cursando séptimo semestre. 
+- 🤓 Estudiante de Ingeniería de sistemas cursando octavo semestre. 
 - 🛠️ Me encanta aprender y crear
 - 📚 Actualmente estoy aprendiendo sobre bases de datos
 - 👀 Echale un vistazo a mi [Linkedin](https://www.linkedin.com/in/andr%C3%A9s-felipe-limas-zea/)
