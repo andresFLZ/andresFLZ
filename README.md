@@ -8,9 +8,7 @@
 
 Software Developer
 
-- 🤓 Eighth semester systems engineering student. 
 - 🛠️ I love to learn and create
-- 📚 I am currently learning about databases and the java spring framework.
 - 👀 Take a look at my [Linkedin](https://www.linkedin.com/in/andr%C3%A9s-felipe-limas-zea/)
 
 ## Technologies:
